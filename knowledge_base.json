@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "I am a chatbot, you can call me ChatGPT."
+    },
+    {
+      "question": "How are you doing?",
+      "answer": "I don't have feelings, but I'm here to help you. How can I assist you today?"
+    },
+    {
+      "question": "What is the weather like today?",
+      "answer": "I'm sorry, I don't have real-time information. You can check a weather website or app for the latest updates"
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "What time is it?",
+      "answer": "I don't have access to real-time data, but your device should display the current time."
+    },
+    {
+      "question": "Can you help me with math?",
+      "answer": "Of course! What math problem do you need help with?"
+    },
+    {
+      "question": "Who is the President odf Sri Lanka?",
+      "answer": "Mr. Ranil Wikkramasinghe"
+    },
+    {
+      "question": "What's the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Tell me a fun fact.",
+      "answer": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
+    },
+    {
+      "question": "What's the smallest prime number?",
+      "answer": "The smallest prime number is 2."
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "I don't have personal preferences, but I'm here to assist you with any questions you have."
+    },
+    {
+      "question": "How do I take a screenshot on my computer?",
+      "answer": "To take a screenshot on a computer, use the \"Print Screen\" key or a combination of keys like \"Alt + Print Screen.\" Then, paste the screenshot into an image editor."
+    },
+    {
+      "question": "How do I convert Celsius to Fahrenheit?",
+      "answer": "To convert Celsius to Fahrenheit, multiply the Celsius temperature by 9/5 and add 32."
+    },
+    {
+      "question": "What's the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "question": "What's the currency of Japan?",
+      "answer": "The currency of Japan is the Japanese Yen."
+    },
+    {
+      "question": "What's the speed of light?",
+      "answer": "The speed of light is approximately 299,792 kilometers per second in a vacuum"
+    },
+    {
+      "question": "hello",
+      "answer": "hey there"
+    },
+    {
+      "questions": "...",
+      "answer": "elipse"
+    }
+  ]
+}
